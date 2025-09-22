@@ -36,3 +36,25 @@
 3. Conferir se contém definição de erro, defeito e falha.  
 
 *Resultado esperado:* O arquivo capitulo1.md existe e descreve erro, defeito e falha.
+
+---
+
+## Teste 5 – Validar resumo do Capítulo 2
+*Pré-condição:* Acessar o repositório.  
+*Passos:*
+1. Abrir a pasta /resumos.  
+2. Verificar se existe o arquivo capitulo2.md.  
+3. Abrir o arquivo e procurar as palavras-chave: "Níveis de Teste" ou "Integração".
+
+*Resultado esperado:* O arquivo capitulo2.md existe e contém a seção sobre níveis de teste (ex.: menciona "Integração" e "Unit").
+
+---
+
+## Teste 6 – Validar anotações de dúvidas
+*Pré-condição:* Acessar o repositório.  
+*Passos:*
+1. Abrir a pasta /anotacoes.  
+2. Verificar se existe o arquivo duvidas.md.  
+3. Conferir se o arquivo lista ao menos 3 perguntas ou tópicos para revisar (ex.: erro/defeito/falha).
+
+*Resultado esperado:* O arquivo duvidas.md existe e contém perguntas-chave e um checklist de atividades.
